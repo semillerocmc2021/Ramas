@@ -2,6 +2,9 @@
 	"Entities": {
 		"EN_PERSONAPF_609": {
 			"name": "Persona"
+		},
+		"EN_PRODUCTOO_306": {
+			"name": "Producto"
 		}
 	}
 }
