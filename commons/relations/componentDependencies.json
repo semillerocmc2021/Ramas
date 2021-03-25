@@ -28,6 +28,10 @@
 			"blis": [
 			],
 			"entities": {
+				"EN_PERSONAPF_609": [
+					"AT20_APELLIOO609",
+					"AT96_NOMBREET609"
+				]
 			},
 			"externalEntities": {
 			},
@@ -36,6 +40,8 @@
 			"header": [
 			],
 			"labels": [
+				"LBL_MSTER_APELLIDOO_30646",
+				"LBL_MSTER_NOMBRESGJ_73540"
 			],
 			"queries": {
 			},

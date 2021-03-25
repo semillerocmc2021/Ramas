@@ -56,18 +56,118 @@
 					{
 						"collapsedStr": "F",
 						"colSpan": 1,
+						"columnsNum": 3,
 						"componentStyle": null,
 						"customEvents": [
 						],
 						"enabled": 4095,
+						"entity": {
+							"$ref": "../../../../MSTER/entities/EN_PERSONAPF_609.json#"
+						},
 						"eventType": 0,
-						"groupId": "Undefined",
+						"groupId": "G_TESTXJKSJI_728158",
+						"htmlSection": "F",
+						"independentValidation": "F",
 						"isCustomized": false,
-						"layoutType": "Empty",
-						"name": "Undefined",
+						"layoutType": "Group",
+						"name": "Group1630",
+						"order": 1,
+						"orientation": "V",
+						"responsiveLayouts": null,
+						"responsivity": false,
 						"style": null,
 						"visible": 4095,
 						"visualAttributes": [
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MSTER/entities/EN_PERSONAPF_609.json#/attributes/AT20_APELLIOO609"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MSTER/assets/languages/MSTER.json#/MSTER/LBL/LBL_MSTER_APELLIDOO_30646"
+									},
+									"labelId": "LBL_MSTER_APELLIDOO_30646",
+									"moduleId": "MSTER"
+								},
+								"maxRecords": null,
+								"name": "apellido",
+								"options": 0,
+								"order": 2,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_APELLIDOJWCFTSA_496158",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MSTER/entities/EN_PERSONAPF_609.json#/attributes/AT96_NOMBREET609"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MSTER/assets/languages/MSTER.json#/MSTER/LBL/LBL_MSTER_NOMBRESGJ_73540"
+									},
+									"labelId": "LBL_MSTER_NOMBRESGJ_73540",
+									"moduleId": "MSTER"
+								},
+								"maxRecords": null,
+								"name": "nombre",
+								"options": 0,
+								"order": 1,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_NOMBRESNOJAHXUY_203158",
+								"width": null,
+								"widthComposite": "D"
+							}
 						]
 					}
 				],
