@@ -17,9 +17,31 @@
 		"EN_RAMA2PLLV_696": {
 			"labels": [
 			]
+		},
+		"EN_TES2TQGAX_796": {
+			"labels": [
+			]
 		}
 	},
 	"Forms": {
+		"T_MSTERHWDDNCJK_625": {
+			"blis": [
+			],
+			"entities": {
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
 	},
 	"Queries": {
 	}
