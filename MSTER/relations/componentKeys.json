@@ -11,6 +11,22 @@
 		},
 		"EN_RAMA2PLLV_696": {
 			"name": "EntidadRama2"
+		},
+		"EN_TES2TQGAX_796": {
+			"name": "EntidadTes2"
+		}
+	},
+	"SSMMC": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_MSTERHWDDNCJK_625": {
+				"name": "FormularioTest"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
 		}
 	}
 }
