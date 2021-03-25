@@ -2,6 +2,10 @@
 	"CompositeForms": {
 	},
 	"Entities": {
+		"EN_ENTIDATS2_985": {
+			"labels": [
+			]
+		},
 		"EN_PERSONAPF_609": {
 			"labels": [
 			]
@@ -41,6 +45,32 @@
 			],
 			"labels": [
 				"LBL_MSTER_APELLIDOO_30646",
+				"LBL_MSTER_NOMBRESGJ_73540"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_MSTERZPXBGWBW_293": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ENTIDATS2_985": [
+					"AT31_NOMBREUL985",
+					"AT54_EDADYXWH985",
+					"AT79_APELLIDD985"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_MSTER_APELLIDOO_30646",
+				"LBL_MSTER_EDADPZGGP_86900",
 				"LBL_MSTER_NOMBRESGJ_73540"
 			],
 			"queries": {

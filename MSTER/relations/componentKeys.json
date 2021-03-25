@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_ENTIDATS2_985": {
+			"name": "EntidatTest2"
+		},
 		"EN_PERSONAPF_609": {
 			"name": "Persona"
 		},
@@ -22,6 +25,9 @@
 		"Forms": {
 			"T_MSTERHWDDNCJK_625": {
 				"name": "FormularioTest"
+			},
+			"T_MSTERZPXBGWBW_293": {
+				"name": "FormularioTest2"
 			}
 		},
 		"Queries": {
