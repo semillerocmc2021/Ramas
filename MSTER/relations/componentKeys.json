@@ -17,6 +17,9 @@
 		},
 		"EN_TES2TQGAX_796": {
 			"name": "EntidadTes2"
+		},
+		"EN_TEST3INDQ_507": {
+			"name": "EntidadTest3"
 		}
 	},
 	"SSMMC": {
@@ -28,6 +31,9 @@
 			},
 			"T_MSTERZPXBGWBW_293": {
 				"name": "FormularioTest2"
+			},
+			"T_MSTERZYSQRRZB_418": {
+				"name": "FormularioTest3"
 			}
 		},
 		"Queries": {

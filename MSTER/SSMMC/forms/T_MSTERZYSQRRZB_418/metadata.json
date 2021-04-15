@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_TEST3INDQ_507",
+			"isContextEntity": null,
+			"moduleId": "MSTER",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}
