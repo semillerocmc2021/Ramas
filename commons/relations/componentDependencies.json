@@ -2,6 +2,10 @@
 	"CompositeForms": {
 	},
 	"Entities": {
+		"EN_EEEEEHJCB_319": {
+			"labels": [
+			]
+		},
 		"EN_ENTIDATS2_985": {
 			"labels": [
 			]
@@ -32,6 +36,28 @@
 		}
 	},
 	"Forms": {
+		"T_MSTERDHZCAQVL_834": {
+			"blis": [
+			],
+			"entities": {
+				"EN_EEEEEHJCB_319": [
+					"AT56_APELLIOD319"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_MSTER_APELLIDOO_30646"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
 		"T_MSTERHWDDNCJK_625": {
 			"blis": [
 			],

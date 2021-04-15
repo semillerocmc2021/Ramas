@@ -1,13 +1,12 @@
 {
-    "MSTER": {
-        "LBL": {
+	"MSTER": {
+		"LBL": {
 			"LBL_MSTER_APELLIDOO_30646": "Apellido",
 			"LBL_MSTER_EDADPZGGP_86900": "edad",
 			"LBL_MSTER_NOMBRESGJ_73540": "Nombre",
 			"LBL_MSTER_TELEFONOO_91196": "Telefono"
-        },
-        "MSG": {
-
-        }
-    }
+		},
+		"MSG": {
+		}
+	}
 }
