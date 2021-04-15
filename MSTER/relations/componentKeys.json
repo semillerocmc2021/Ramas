@@ -20,6 +20,9 @@
 		},
 		"EN_TEST3INDQ_507": {
 			"name": "EntidadTest3"
+		},
+		"EN_TEST4VFIA_931": {
+			"name": "EntidadTest4"
 		}
 	},
 	"SSMMC": {
@@ -29,11 +32,11 @@
 			"T_MSTERHWDDNCJK_625": {
 				"name": "FormularioTest"
 			},
+			"T_MSTERWEVICSXQ_425": {
+				"name": "FormTest1"
+			},
 			"T_MSTERZPXBGWBW_293": {
 				"name": "FormularioTest2"
-			},
-			"T_MSTERZYSQRRZB_418": {
-				"name": "FormularioTest3"
 			}
 		},
 		"Queries": {

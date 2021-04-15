@@ -1,0 +1,143 @@
+{
+	"autoCrudStr": "F",
+	"cobisPattern": "None",
+	"cobisPatternId": 0,
+	"commands": [
+	],
+	"customEvents": [
+	],
+	"customizationLayer": 0,
+	"customizationLayerDescription": "ECU",
+	"graphicSupportStr": "F",
+	"header": null,
+	"id": {
+		"moduleId": "MSTER",
+		"subModuleId": "SSMMC",
+		"taskId": "T_MSTERWEVICSXQ_425",
+		"version": "1.0.0"
+	},
+	"isCustomized": false,
+	"isImported": false,
+	"mainViewContainerId": "VC_TEST4JYEEN_594425",
+	"modeEnabled": 4095,
+	"name": {
+		"$ref": "../../../../MSTER/relations/componentKeys.json#/SSMMC/Forms/T_MSTERWEVICSXQ_425/name"
+	},
+	"setFocus": false,
+	"tempSaveStr": "F",
+	"viewContainers": [
+		{
+			"breadcrumbs": "Automatic",
+			"collapsedStr": "F",
+			"colSpan": 1,
+			"columnsNum": 1,
+			"componentStyle": null,
+			"customEvents": [
+			],
+			"customizationLayer": 0,
+			"customizationLayerDescription": "ECU",
+			"enabled": 4095,
+			"id": {
+				"moduleId": "MSTER",
+				"subModuleId": "SSMMC",
+				"taskId": "T_MSTERWEVICSXQ_425",
+				"taskVersion": "1.0.0",
+				"viewContainerId": "VC_TEST4JYEEN_594425"
+			},
+			"isCustomized": false,
+			"layoutType": "Group",
+			"name": "FormTest4",
+			"options": 0,
+			"responsiveLayouts": null,
+			"responsivity": false,
+			"style": null,
+			"view": {
+				"groups": [
+					{
+						"collapsedStr": "F",
+						"colSpan": 1,
+						"columnsNum": 3,
+						"componentStyle": null,
+						"customEvents": [
+						],
+						"enabled": 4095,
+						"entity": {
+							"$ref": "../../../../MSTER/entities/EN_TEST4VFIA_931.json#"
+						},
+						"eventType": 0,
+						"groupId": "G_TEST4VPQGO_229264",
+						"htmlSection": "F",
+						"independentValidation": "F",
+						"isCustomized": false,
+						"layoutType": "Group",
+						"name": "Group1781",
+						"order": 1,
+						"orientation": "V",
+						"responsiveLayouts": null,
+						"responsivity": false,
+						"style": null,
+						"visible": 4095,
+						"visualAttributes": [
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MSTER/entities/EN_TEST4VFIA_931.json#/attributes/AT59_NOMBREDX931"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MSTER/assets/languages/MSTER.json#/MSTER/LBL/LBL_MSTER_NOMBRESGJ_73540"
+									},
+									"labelId": "LBL_MSTER_NOMBRESGJ_73540",
+									"moduleId": "MSTER"
+								},
+								"maxRecords": null,
+								"name": "nombre",
+								"options": 0,
+								"order": 1,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_NOMBREKBVOBOZGM_989264",
+								"width": null,
+								"widthComposite": "D"
+							}
+						]
+					}
+				],
+				"id": {
+					"version": "1.0.0",
+					"viewId": "VW_TEST4MCOUK_264"
+				},
+				"metadataVersion": "7.2.0.2024 BETA",
+				"modules": [
+					{
+						"moduleId": "MSTER"
+					}
+				],
+				"name": "View of FormTest4"
+			}
+		}
+	]
+}
