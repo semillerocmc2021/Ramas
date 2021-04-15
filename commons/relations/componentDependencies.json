@@ -81,32 +81,6 @@
 			},
 			"subForms": [
 			]
-		},
-		"T_MSTERZYSQRRZB_418": {
-			"blis": [
-			],
-			"entities": {
-				"EN_TEST3INDQ_507": [
-					"AT10_TELEFONN507",
-					"AT13_NOMBREKY507",
-					"AT44_APELLIDO507"
-				]
-			},
-			"externalEntities": {
-			},
-			"externalQueries": {
-			},
-			"header": [
-			],
-			"labels": [
-				"LBL_MSTER_APELLIDOO_30646",
-				"LBL_MSTER_NOMBRESGJ_73540",
-				"LBL_MSTER_TELEFONOO_91196"
-			],
-			"queries": {
-			},
-			"subForms": [
-			]
 		}
 	},
 	"Queries": {
